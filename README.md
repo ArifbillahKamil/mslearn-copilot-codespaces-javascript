@@ -74,3 +74,38 @@ The prompts uses `@workspace` which is a special feature of GitHub Copilot chat 
 Your site should already be running in your Codespace, and the change will reload onto the page automatically. To see them, hover over one of your social media icons in the footer to see the magic!
 
 Congratulations, through the exercise, you have use GitHub Copilot to generate code and also done it in an interactive and fun way! You can use GitHub Copilot to not only generate code, but write documentation, test your applications and more.
+
+# React Application
+
+## How to Run
+
+1. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+    or
+    ```bash
+    yarn install
+    ```
+
+2. **Start the Development Server**:
+    ```bash
+    npm start
+    ```
+    or
+    ```bash
+    yarn start
+    ```
+
+3. **Open the Application in a Browser**:
+    Open your browser and navigate to `http://localhost:3000`.
+
+4. **Build for Production** (Optional):
+    To create a production build, run:
+    ```bash
+    npm run build
+    ```
+    or
+    ```bash
+    yarn build
+    ```
